@@ -1,4 +1,4 @@
-# IPD_Simulator
+# IPD Simulator
 
 This model accompanies the project "Desarrollo de una herramienta software para el estudio del dilema del prisionero iterado" and the paper "An iterated Prisoner’s Dilemma tool to play and learn inside and outside the class".
 
