@@ -8,8 +8,8 @@ This model accompanies the project "Desarrollo de una herramienta software para 
 The model is implemented in NetLogo 6.2.2
 
 
-# Copyright
+# License
 
-Copyright 2022 Pablo Lorente and María Pereda.
+Written by Pablo Lorente and María Pereda (2022).
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
